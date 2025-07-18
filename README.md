@@ -1,6 +1,8 @@
 # 1CCO19
 Materiales del curso de Pensamiento Computacional para Comunicaciones 2025-I
 
+página interactiva: https://pcc-interactivo.streamlit.app
+
 # Calendario
 - Semana 1: Tu primer código de Python
 - Semana 2: Variable y tipos de datos
